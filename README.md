@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreenDelrin
-- 👀 I’m interested in web dev, eventually programming
-- 🌱 I’m currently learning javascript/python/C++
+- 👀 I’m interested in Web Dev/Audio apps/Programming
+- 🌱 I’m currently learning Javascript/React/C++
 - 💞️ I’m looking to collaborate on audio and music apps
 - 📫 How to reach me [...](https://twitter.com/Gian59246757)
 
